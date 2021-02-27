@@ -1,0 +1,15 @@
+.My_Navbar_Style_Class{
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+html{
+    scroll-behavior: smooth;
+}
+#hello{
+    height: 700px;
+}
+#list-remover{
+    list-style-type: none;
+    text-align: center;
+}
